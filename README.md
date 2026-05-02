@@ -1,1 +1,4 @@
-# car_license_plate_dect
+This project focuses on building an Automatic Car License Plate Detection System using Deep Learning and Computer Vision. The goal is to detect and localize vehicle number plates from images and videos, enabling real-world applications such as smart traffic monitoring, automated toll collection, parking management, and security surveillance.
+
+The model is trained using a publicly available dataset hosted on Kaggle, and leverages modern object detection techniques to accurately identify license plates in diverse lighting and environmental conditions. The system demonstrates an end-to-end pipeline—from data preprocessing and model training to prediction and visualization—showcasing practical AI deployment in transportation and smart city solutions.
+https://www.kaggle.com/code/jnvibhrdwj/car-license-plate-detection
